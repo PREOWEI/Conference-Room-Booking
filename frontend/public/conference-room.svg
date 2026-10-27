@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 112">
+  <g fill="none" stroke="#f4510b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 52V15h103v37"/>
+    <path d="M51 62h35l25 28H26z"/>
+    <path d="M7 64l12 32h15M130 64l-12 32h-15"/>
+  </g>
+  <g fill="#f4510b">
+    <rect x="56" y="41" width="26" height="16" rx="6"/>
+    <rect x="19" y="54" width="13" height="28" rx="4" transform="rotate(-25 25 68)"/>
+    <rect x="34" y="46" width="12" height="22" rx="4" transform="rotate(-25 40 57)"/>
+    <rect x="105" y="54" width="13" height="28" rx="4" transform="rotate(25 111 68)"/>
+    <rect x="91" y="46" width="12" height="22" rx="4" transform="rotate(25 97 57)"/>
+  </g>
+  <text x="147" y="52" fill="#f4510b" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-2">Conference</text>
+  <text x="148" y="99" fill="#20252b" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-1.5">Room</text>
+</svg>

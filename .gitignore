@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+node_modules/
+dist/
+.vs/
+*.user
+.env.local
+*.tsbuildinfo
+
+# Local project notes
+PROGRESS.md
+CHECKLIST.md
+.env
+.env.*
+!.env.example

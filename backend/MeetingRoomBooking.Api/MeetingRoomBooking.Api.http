@@ -1,0 +1,19 @@
+@MeetingRoomBooking.Api_HostAddress = http://localhost:5209
+
+GET {{MeetingRoomBooking.Api_HostAddress}}/api/rooms
+Accept: application/json
+
+###
+
+GET {{MeetingRoomBooking.Api_HostAddress}}/api/users
+Accept: application/json
+
+###
+
+GET {{MeetingRoomBooking.Api_HostAddress}}/api/reservations
+Accept: application/json
+
+###
+
+GET {{MeetingRoomBooking.Api_HostAddress}}/api/usage
+Accept: application/json
