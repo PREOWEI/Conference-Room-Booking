@@ -163,7 +163,5 @@ Open Schedule, select a room and date, and see meetings in chronological order. 
 
 Open Usage, choose report dates, and click Save as PDF. In the browser print dialog, choose Save as PDF. The print stylesheet shows the report, date range, table and metric definitions, hiding navigation and controls. A4 landscape is the default print layout. This uses the browser rather than a server PDF library; print appearance has not been visually verified in this environment.
 
-## GitHub submission
 
-The source is ready to place in a GitHub repository. Dependency folders and build output are ignored. A remote repository has not been chosen or published automatically. Review the code and repository visibility before pushing.
 
